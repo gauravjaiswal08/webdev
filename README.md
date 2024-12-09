@@ -1,2 +1,2 @@
 # webdev
-This is the first class of git &amp;github
+This is the first class of git &amp;github.
